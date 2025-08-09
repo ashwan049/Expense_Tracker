@@ -1,0 +1,8 @@
+# Backend ignores
+backend/node_modules/
+backend/.env
+
+# Frontend ignores
+frontend/expense-tracker/node_modules/
+frontend/expense-tracker/dist/
+frontend/expense-tracker/.env
