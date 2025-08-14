@@ -54,3 +54,6 @@ Track, visualize, and export your financial data — all through a responsive an
 .env       --> Environment variables
 README.md  --> Project documentation
 ```
+
+## Link to the deployed site
+https://expense-tracker-ashwan.netlify.app/
